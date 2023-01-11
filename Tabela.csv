@@ -1,0 +1,191 @@
+Cidade;CodigoDaCidade;date;Regiao;Pais;TemperaturaMaxima;TemperaturaMinima;VaiChover;ChanceDeChuva;CondicaoDoTempo;NascerDoSol;PorDoSol;VelocidadeMaximaDoVento
+Aparecida;3502507;11/01;Vale do Paraiba;Brasil;26;22;Sim;79;rain;05:25 am;06:51 pm;2.29 km/h
+Aparecida;3502507;12/01;Vale do Paraiba;Brasil;29;23;Sim;72;rain;05:25 am;06:51 pm;2.3 km/h
+Aparecida;3502507;13/01;Vale do Paraiba;Brasil;29;23;Sim;82;rain;05:25 am;06:51 pm;2 km/h
+Aparecida;3502507;14/01;Vale do Paraiba;Brasil;30;24;Sim;85;rain;05:25 am;06:51 pm;2.42 km/h
+Aparecida;3502507;15/01;Vale do Paraiba;Brasil;30;25;Sim;87;rain;05:25 am;06:51 pm;2.34 km/h
+Arapeí;3503158;11/01;Vale do Paraiba;Brasil;26;18;Sim;100;rain;05:22 am;06:47 pm;1.97 km/h
+Arapeí;3503158;12/01;Vale do Paraiba;Brasil;26;19;Sim;100;rain;05:22 am;06:47 pm;2.03 km/h
+Arapeí;3503158;13/01;Vale do Paraiba;Brasil;28;18;Sim;100;rain;05:22 am;06:47 pm;1.19 km/h
+Arapeí;3503158;14/01;Vale do Paraiba;Brasil;31;20;Sim;100;rain;05:22 am;06:47 pm;1.56 km/h
+Arapeí;3503158;15/01;Vale do Paraiba;Brasil;27;20;Sim;100;rain;05:22 am;06:47 pm;1.19 km/h
+Areias;3503505;11/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:23 am;06:47 pm;2.1 km/h
+Areias;3503505;12/01;Vale do Paraiba;Brasil;26;18;Sim;100;rain;05:23 am;06:47 pm;2.23 km/h
+Areias;3503505;13/01;Vale do Paraiba;Brasil;28;18;Sim;100;rain;05:23 am;06:47 pm;1.27 km/h
+Areias;3503505;14/01;Vale do Paraiba;Brasil;31;19;Sim;100;rain;05:23 am;06:47 pm;1.58 km/h
+Areias;3503505;15/01;Vale do Paraiba;Brasil;27;20;Sim;99;rain;05:23 am;06:47 pm;1.24 km/h
+Bananal;3504909;11/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:22 am;06:47 pm;1.29 km/h
+Bananal;3504909;12/01;Vale do Paraiba;Brasil;28;20;Sim;98;rain;05:22 am;06:47 pm;1.44 km/h
+Bananal;3504909;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:22 am;06:47 pm;1.38 km/h
+Bananal;3504909;14/01;Vale do Paraiba;Brasil;30;21;Sim;100;rain;05:22 am;06:47 pm;2.59 km/h
+Bananal;3504909;15/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:22 am;06:47 pm;1.21 km/h
+Cachoeira Paulista;3508603;11/01;Vale do Paraiba;Brasil;24;19;Sim;93;rain;05:25 am;06:50 pm;2.85 km/h
+Cachoeira Paulista;3508603;12/01;Vale do Paraiba;Brasil;25;19;Sim;92;rain;05:25 am;06:50 pm;4.12 km/h
+Cachoeira Paulista;3508603;13/01;Vale do Paraiba;Brasil;26;18;Sim;99;rain;05:25 am;06:50 pm;3.46 km/h
+Cachoeira Paulista;3508603;14/01;Vale do Paraiba;Brasil;28;19;Sim;60;rain;05:25 am;06:50 pm;5.95 km/h
+Cachoeira Paulista;3508603;15/01;Vale do Paraiba;Brasil;24;20;Sim;63;rain;05:25 am;06:50 pm;4.17 km/h
+Campos do Jordão;3509700;11/01;Vale do Paraiba;Brasil;26;18;Sim;100;rain;05:27 am;06:52 pm;1.79 km/h
+Campos do Jordão;3509700;12/01;Vale do Paraiba;Brasil;26;19;Sim;100;rain;05:27 am;06:52 pm;2.45 km/h
+Campos do Jordão;3509700;13/01;Vale do Paraiba;Brasil;29;18;Sim;100;rain;05:27 am;06:52 pm;1.95 km/h
+Campos do Jordão;3509700;14/01;Vale do Paraiba;Brasil;30;19;Sim;93;rain;05:27 am;06:52 pm;2.66 km/h
+Campos do Jordão;3509700;15/01;Vale do Paraiba;Brasil;26;20;Sim;86;rain;05:27 am;06:52 pm;2.47 km/h
+Canas;3509957;11/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:25 am;06:50 pm;1.6 km/h
+Canas;3509957;12/01;Vale do Paraiba;Brasil;28;20;Sim;100;rain;05:25 am;06:50 pm;0.89 km/h
+Canas;3509957;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:25 am;06:50 pm;1.6 km/h
+Canas;3509957;14/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:25 am;06:50 pm;1.92 km/h
+Canas;3509957;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:25 am;06:50 pm;1.43 km/h
+Caraguatatuba;3510500;11/01;Vale do Paraiba;Brasil;24;16;Sim;100;rain;05:24 am;06:53 pm;1.92 km/h
+Caraguatatuba;3510500;12/01;Vale do Paraiba;Brasil;24;16;Sim;100;rain;05:24 am;06:53 pm;1.79 km/h
+Caraguatatuba;3510500;13/01;Vale do Paraiba;Brasil;25;16;Sim;100;rain;05:24 am;06:53 pm;2.2 km/h
+Caraguatatuba;3510500;14/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:24 am;06:53 pm;2.85 km/h
+Caraguatatuba;3510500;15/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:24 am;06:53 pm;2.25 km/h
+Caçapava;3508504;11/01;Vale do Paraiba;Brasil;27;22;Sim;67;rain;05:27 am;06:53 pm;3.48 km/h
+Caçapava;3508504;12/01;Vale do Paraiba;Brasil;29;23;Sim;54;rain;05:27 am;06:53 pm;2.57 km/h
+Caçapava;3508504;13/01;Vale do Paraiba;Brasil;30;23;Sim;68;rain;05:27 am;06:53 pm;2.59 km/h
+Caçapava;3508504;14/01;Vale do Paraiba;Brasil;32;24;Sim;90;rain;05:27 am;06:53 pm;2.56 km/h
+Caçapava;3508504;15/01;Vale do Paraiba;Brasil;30;24;Sim;75;rain;05:27 am;06:53 pm;2.56 km/h
+Cruzeiro;3513405;11/01;Vale do Paraiba;Brasil;22;15;Sim;100;rain;05:25 am;06:49 pm;1.35 km/h
+Cruzeiro;3513405;12/01;Vale do Paraiba;Brasil;23;15;Sim;100;rain;05:25 am;06:49 pm;1.46 km/h
+Cruzeiro;3513405;13/01;Vale do Paraiba;Brasil;25;15;Sim;100;rain;05:25 am;06:49 pm;1.39 km/h
+Cruzeiro;3513405;14/01;Vale do Paraiba;Brasil;26;16;Sim;100;rain;05:25 am;06:49 pm;2.31 km/h
+Cruzeiro;3513405;15/01;Vale do Paraiba;Brasil;24;17;Sim;100;rain;05:25 am;06:49 pm;1.36 km/h
+Cunha;3513603;11/01;Vale do Paraiba;Brasil;25;18;Sim;92;rain;05:24 am;06:50 pm;1.76 km/h
+Cunha;3513603;12/01;Vale do Paraiba;Brasil;25;18;Sim;90;rain;05:24 am;06:50 pm;2.45 km/h
+Cunha;3513603;13/01;Vale do Paraiba;Brasil;28;18;Sim;99;rain;05:24 am;06:50 pm;2.08 km/h
+Cunha;3513603;14/01;Vale do Paraiba;Brasil;30;19;Sim;88;rain;05:24 am;06:50 pm;3.3 km/h
+Cunha;3513603;15/01;Vale do Paraiba;Brasil;27;20;Sim;75;rain;05:24 am;06:50 pm;2.68 km/h
+Guaratinguetá;3518404;11/01;Vale do Paraiba;Brasil;27;18;Sim;98;rain;05:25 am;06:51 pm;1.49 km/h
+Guaratinguetá;3518404;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:25 am;06:51 pm;1.94 km/h
+Guaratinguetá;3518404;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:25 am;06:51 pm;1.05 km/h
+Guaratinguetá;3518404;14/01;Vale do Paraiba;Brasil;31;20;Sim;100;rain;05:25 am;06:51 pm;1.27 km/h
+Guaratinguetá;3518404;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:25 am;06:51 pm;1.13 km/h
+Igaratá;3520202;11/01;Vale do Paraiba;Brasil;24;17;Sim;99;rain;05:28 am;06:55 pm;1.48 km/h
+Igaratá;3520202;12/01;Vale do Paraiba;Brasil;25;18;Sim;95;rain;05:28 am;06:55 pm;2.46 km/h
+Igaratá;3520202;13/01;Vale do Paraiba;Brasil;28;17;Sim;99;rain;05:28 am;06:55 pm;1.59 km/h
+Igaratá;3520202;14/01;Vale do Paraiba;Brasil;29;18;Sim;99;rain;05:28 am;06:55 pm;2.8 km/h
+Igaratá;3520202;15/01;Vale do Paraiba;Brasil;26;19;Sim;94;rain;05:28 am;06:55 pm;1.9 km/h
+Ilhabela;3520400;11/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:24 am;06:53 pm;1.29 km/h
+Ilhabela;3520400;12/01;Vale do Paraiba;Brasil;28;20;Sim;98;rain;05:24 am;06:53 pm;1.44 km/h
+Ilhabela;3520400;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:24 am;06:53 pm;1.38 km/h
+Ilhabela;3520400;14/01;Vale do Paraiba;Brasil;30;21;Sim;100;rain;05:24 am;06:53 pm;2.59 km/h
+Ilhabela;3520400;15/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:24 am;06:53 pm;1.21 km/h
+Jacareí;3524402;11/01;Vale do Paraiba;Brasil;27;18;Sim;98;rain;05:27 am;06:55 pm;1.55 km/h
+Jacareí;3524402;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:27 am;06:55 pm;1.93 km/h
+Jacareí;3524402;13/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:27 am;06:55 pm;1.01 km/h
+Jacareí;3524402;14/01;Vale do Paraiba;Brasil;31;20;Sim;100;rain;05:27 am;06:55 pm;1.62 km/h
+Jacareí;3524402;15/01;Vale do Paraiba;Brasil;28;20;Sim;100;rain;05:27 am;06:55 pm;1.2 km/h
+Jambeiro;3524907;11/01;Vale do Paraiba;Brasil;27;18;Sim;100;rain;05:26 am;06:53 pm;1.17 km/h
+Jambeiro;3524907;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:26 am;06:53 pm;1.4 km/h
+Jambeiro;3524907;13/01;Vale do Paraiba;Brasil;27;18;Sim;100;rain;05:26 am;06:53 pm;1.48 km/h
+Jambeiro;3524907;14/01;Vale do Paraiba;Brasil;29;20;Sim;100;rain;05:26 am;06:53 pm;1.64 km/h
+Jambeiro;3524907;15/01;Vale do Paraiba;Brasil;27;20;Sim;100;rain;05:26 am;06:53 pm;1.07 km/h
+Lagoinha;3526308;11/01;Vale do Paraiba;Brasil;26;18;Sim;100;rain;05:25 am;06:51 pm;1.92 km/h
+Lagoinha;3526308;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:25 am;06:51 pm;1.96 km/h
+Lagoinha;3526308;13/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:25 am;06:51 pm;1.1 km/h
+Lagoinha;3526308;14/01;Vale do Paraiba;Brasil;31;20;Sim;100;rain;05:25 am;06:51 pm;1.5 km/h
+Lagoinha;3526308;15/01;Vale do Paraiba;Brasil;27;21;Sim;100;rain;05:25 am;06:51 pm;1.06 km/h
+Lavrinhas;3526605;11/01;Vale do Paraiba;Brasil;25;18;Sim;96;rain;05:24 am;06:49 pm;1.49 km/h
+Lavrinhas;3526605;12/01;Vale do Paraiba;Brasil;26;19;Sim;88;rain;05:24 am;06:49 pm;2.28 km/h
+Lavrinhas;3526605;13/01;Vale do Paraiba;Brasil;28;18;Sim;97;rain;05:24 am;06:49 pm;1.73 km/h
+Lavrinhas;3526605;14/01;Vale do Paraiba;Brasil;30;19;Sim;96;rain;05:24 am;06:49 pm;2.75 km/h
+Lavrinhas;3526605;15/01;Vale do Paraiba;Brasil;28;20;Sim;85;rain;05:24 am;06:49 pm;2.11 km/h
+Lorena;3527207;11/01;Vale do Paraiba;Brasil;24;17;Sim;92;rain;05:25 am;06:50 pm;1.4 km/h
+Lorena;3527207;12/01;Vale do Paraiba;Brasil;25;18;Sim;85;rain;05:25 am;06:50 pm;1.91 km/h
+Lorena;3527207;13/01;Vale do Paraiba;Brasil;28;18;Sim;95;rain;05:25 am;06:50 pm;1.69 km/h
+Lorena;3527207;14/01;Vale do Paraiba;Brasil;29;18;Sim;98;rain;05:25 am;06:50 pm;2.79 km/h
+Lorena;3527207;15/01;Vale do Paraiba;Brasil;27;19;Sim;92;rain;05:25 am;06:50 pm;2.25 km/h
+Monteiro Lobato;3531704;11/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:27 am;06:53 pm;1.42 km/h
+Monteiro Lobato;3531704;12/01;Vale do Paraiba;Brasil;26;18;Sim;100;rain;05:27 am;06:53 pm;1.76 km/h
+Monteiro Lobato;3531704;13/01;Vale do Paraiba;Brasil;28;18;Sim;100;rain;05:27 am;06:53 pm;1.41 km/h
+Monteiro Lobato;3531704;14/01;Vale do Paraiba;Brasil;29;19;Sim;99;rain;05:27 am;06:53 pm;2.19 km/h
+Monteiro Lobato;3531704;15/01;Vale do Paraiba;Brasil;27;20;Sim;96;rain;05:27 am;06:53 pm;1.31 km/h
+Natividade da Serra;3532306;11/01;Vale do Paraiba;Brasil;27;18;Sim;100;rain;05:25 am;06:53 pm;1.6 km/h
+Natividade da Serra;3532306;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:25 am;06:53 pm;1.71 km/h
+Natividade da Serra;3532306;13/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:25 am;06:53 pm;1.19 km/h
+Natividade da Serra;3532306;14/01;Vale do Paraiba;Brasil;30;20;Sim;100;rain;05:25 am;06:53 pm;2.08 km/h
+Natividade da Serra;3532306;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:25 am;06:53 pm;0.98 km/h
+Paraibuna;3535606;11/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:26 am;06:54 pm;1.29 km/h
+Paraibuna;3535606;12/01;Vale do Paraiba;Brasil;28;20;Sim;98;rain;05:26 am;06:54 pm;1.44 km/h
+Paraibuna;3535606;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:26 am;06:54 pm;1.38 km/h
+Paraibuna;3535606;14/01;Vale do Paraiba;Brasil;30;21;Sim;100;rain;05:26 am;06:54 pm;2.59 km/h
+Paraibuna;3535606;15/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:26 am;06:54 pm;1.21 km/h
+Pindamonhangaba;3538006;11/01;Vale do Paraiba;Brasil;26;16;Sim;97;rain;05:26 am;06:52 pm;1.76 km/h
+Pindamonhangaba;3538006;12/01;Vale do Paraiba;Brasil;25;17;Sim;100;rain;05:26 am;06:52 pm;2.13 km/h
+Pindamonhangaba;3538006;13/01;Vale do Paraiba;Brasil;27;17;Sim;100;rain;05:26 am;06:52 pm;1.31 km/h
+Pindamonhangaba;3538006;14/01;Vale do Paraiba;Brasil;29;18;Sim;100;rain;05:26 am;06:52 pm;1.62 km/h
+Pindamonhangaba;3538006;15/01;Vale do Paraiba;Brasil;27;18;Sim;100;rain;05:26 am;06:52 pm;1.34 km/h
+Piquete;3538501;11/01;Vale do Paraiba;Brasil;25;17;Sim;100;rain;05:25 am;06:50 pm;1.81 km/h
+Piquete;3538501;12/01;Vale do Paraiba;Brasil;26;18;Sim;99;rain;05:25 am;06:50 pm;2.95 km/h
+Piquete;3538501;13/01;Vale do Paraiba;Brasil;28;17;Sim;100;rain;05:25 am;06:50 pm;1.85 km/h
+Piquete;3538501;14/01;Vale do Paraiba;Brasil;29;18;Sim;97;rain;05:25 am;06:50 pm;2.57 km/h
+Piquete;3538501;15/01;Vale do Paraiba;Brasil;27;19;Sim;90;rain;05:25 am;06:50 pm;1.98 km/h
+Potim;3540754;11/01;Vale do Paraiba;Brasil;26;19;Sim;97;rain;05:25 am;06:51 pm;2.03 km/h
+Potim;3540754;12/01;Vale do Paraiba;Brasil;26;19;Sim;96;rain;05:25 am;06:51 pm;2.83 km/h
+Potim;3540754;13/01;Vale do Paraiba;Brasil;29;18;Sim;100;rain;05:25 am;06:51 pm;2.4 km/h
+Potim;3540754;14/01;Vale do Paraiba;Brasil;30;19;Sim;87;rain;05:25 am;06:51 pm;3.59 km/h
+Potim;3540754;15/01;Vale do Paraiba;Brasil;26;20;Sim;78;rain;05:25 am;06:51 pm;3.37 km/h
+Queluz;3541901;11/01;Vale do Paraiba;Brasil;26;22;Sim;63;rain;05:24 am;06:49 pm;3.47 km/h
+Queluz;3541901;12/01;Vale do Paraiba;Brasil;28;23;Sim;51;rain;05:24 am;06:49 pm;2.64 km/h
+Queluz;3541901;13/01;Vale do Paraiba;Brasil;29;23;Sim;65;rain;05:24 am;06:49 pm;2.45 km/h
+Queluz;3541901;14/01;Vale do Paraiba;Brasil;31;24;Sim;89;rain;05:24 am;06:49 pm;2.7 km/h
+Queluz;3541901;15/01;Vale do Paraiba;Brasil;29;24;Sim;74;rain;05:24 am;06:49 pm;3.26 km/h
+Redenção da Serra;3542305;11/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:26 am;06:53 pm;2.5 km/h
+Redenção da Serra;3542305;12/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:26 am;06:53 pm;3.11 km/h
+Redenção da Serra;3542305;13/01;Vale do Paraiba;Brasil;27;17;Sim;100;rain;05:26 am;06:53 pm;2.93 km/h
+Redenção da Serra;3542305;14/01;Vale do Paraiba;Brasil;28;18;Sim;87;rain;05:26 am;06:53 pm;4.27 km/h
+Redenção da Serra;3542305;15/01;Vale do Paraiba;Brasil;24;19;Sim;78;rain;05:26 am;06:53 pm;3 km/h
+Roseira;3544301;11/01;Vale do Paraiba;Brasil;27;18;Sim;99;rain;05:25 am;06:51 pm;1.56 km/h
+Roseira;3544301;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:25 am;06:51 pm;1.85 km/h
+Roseira;3544301;13/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:25 am;06:51 pm;1.03 km/h
+Roseira;3544301;14/01;Vale do Paraiba;Brasil;31;20;Sim;100;rain;05:25 am;06:51 pm;1.76 km/h
+Roseira;3544301;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:25 am;06:51 pm;1.13 km/h
+Santa Branca;3546009;11/01;Vale do Paraiba;Brasil;24;16;Sim;89;rain;05:27 am;06:55 pm;1.53 km/h
+Santa Branca;3546009;12/01;Vale do Paraiba;Brasil;25;17;Sim;90;rain;05:27 am;06:55 pm;1.58 km/h
+Santa Branca;3546009;13/01;Vale do Paraiba;Brasil;26;17;Sim;96;rain;05:27 am;06:55 pm;1.58 km/h
+Santa Branca;3546009;14/01;Vale do Paraiba;Brasil;26;18;Sim;92;rain;05:27 am;06:55 pm;2 km/h
+Santa Branca;3546009;15/01;Vale do Paraiba;Brasil;26;18;Sim;97;rain;05:27 am;06:55 pm;2.21 km/h
+Santo Antônio do Pinhal;3548203;11/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:27 am;06:53 pm;1.35 km/h
+Santo Antônio do Pinhal;3548203;12/01;Vale do Paraiba;Brasil;28;20;Sim;99;rain;05:27 am;06:53 pm;1.45 km/h
+Santo Antônio do Pinhal;3548203;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:27 am;06:53 pm;1.41 km/h
+Santo Antônio do Pinhal;3548203;14/01;Vale do Paraiba;Brasil;30;20;Sim;100;rain;05:27 am;06:53 pm;3.08 km/h
+Santo Antônio do Pinhal;3548203;15/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:27 am;06:53 pm;1.21 km/h
+Silveiras;3552007;11/01;Vale do Paraiba;Brasil;25;18;Sim;100;rain;05:24 am;06:49 pm;1.45 km/h
+Silveiras;3552007;12/01;Vale do Paraiba;Brasil;26;19;Sim;100;rain;05:24 am;06:49 pm;2.17 km/h
+Silveiras;3552007;13/01;Vale do Paraiba;Brasil;29;18;Sim;100;rain;05:24 am;06:49 pm;1.22 km/h
+Silveiras;3552007;14/01;Vale do Paraiba;Brasil;31;19;Sim;99;rain;05:24 am;06:49 pm;1.8 km/h
+Silveiras;3552007;15/01;Vale do Paraiba;Brasil;27;20;Sim;95;rain;05:24 am;06:49 pm;1.48 km/h
+São Bento do Sapucaí;3548609;11/01;Vale do Paraiba;Brasil;28;22;Sim;78;rain;05:27 am;06:52 pm;2.07 km/h
+São Bento do Sapucaí;3548609;12/01;Vale do Paraiba;Brasil;29;23;Sim;65;rain;05:27 am;06:52 pm;1.89 km/h
+São Bento do Sapucaí;3548609;13/01;Vale do Paraiba;Brasil;31;23;Sim;80;rain;05:27 am;06:52 pm;1.71 km/h
+São Bento do Sapucaí;3548609;14/01;Vale do Paraiba;Brasil;33;23;Sim;93;rain;05:27 am;06:52 pm;2.11 km/h
+São Bento do Sapucaí;3548609;15/01;Vale do Paraiba;Brasil;31;24;Sim;82;rain;05:27 am;06:52 pm;2.32 km/h
+São José do Barreiro;3549607;11/01;Vale do Paraiba;Brasil;28;18;Sim;100;rain;05:23 am;06:47 pm;1.55 km/h
+São José do Barreiro;3549607;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:23 am;06:47 pm;1.69 km/h
+São José do Barreiro;3549607;13/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:23 am;06:47 pm;1.35 km/h
+São José do Barreiro;3549607;14/01;Vale do Paraiba;Brasil;30;20;Sim;100;rain;05:23 am;06:47 pm;2.95 km/h
+São José do Barreiro;3549607;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:23 am;06:47 pm;0.89 km/h
+São José dos Campos;3549904;11/01;Vale do Paraiba;Brasil;20;12;Sim;100;rain;05:27 am;06:54 pm;1.67 km/h
+São José dos Campos;3549904;12/01;Vale do Paraiba;Brasil;20;13;Sim;100;rain;05:27 am;06:54 pm;1.57 km/h
+São José dos Campos;3549904;13/01;Vale do Paraiba;Brasil;22;12;Sim;100;rain;05:27 am;06:54 pm;1.61 km/h
+São José dos Campos;3549904;14/01;Vale do Paraiba;Brasil;22;14;Sim;100;rain;05:27 am;06:54 pm;2.32 km/h
+São José dos Campos;3549904;15/01;Vale do Paraiba;Brasil;21;14;Sim;100;rain;05:27 am;06:54 pm;1.55 km/h
+São Sebastião;3550704;11/01;Vale do Paraiba;Brasil;28;18;Sim;100;rain;05:24 am;06:53 pm;1.45 km/h
+São Sebastião;3550704;12/01;Vale do Paraiba;Brasil;27;19;Sim;100;rain;05:24 am;06:53 pm;1.69 km/h
+São Sebastião;3550704;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:24 am;06:53 pm;1.4 km/h
+São Sebastião;3550704;14/01;Vale do Paraiba;Brasil;30;20;Sim;100;rain;05:24 am;06:53 pm;3.54 km/h
+São Sebastião;3550704;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:24 am;06:53 pm;1.13 km/h
+Taubaté;3554102;11/01;Vale do Paraiba;Brasil;28;19;Sim;92;rain;05:26 am;06:52 pm;1.42 km/h
+Taubaté;3554102;12/01;Vale do Paraiba;Brasil;28;19;Sim;89;rain;05:26 am;06:52 pm;1.3 km/h
+Taubaté;3554102;13/01;Vale do Paraiba;Brasil;29;19;Sim;92;rain;05:26 am;06:52 pm;1.21 km/h
+Taubaté;3554102;14/01;Vale do Paraiba;Brasil;28;21;Sim;86;rain;05:26 am;06:52 pm;1.92 km/h
+Taubaté;3554102;15/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:26 am;06:52 pm;1.45 km/h
+Tremembé;3554805;11/01;Vale do Paraiba;Brasil;28;19;Sim;100;rain;05:26 am;06:52 pm;1.6 km/h
+Tremembé;3554805;12/01;Vale do Paraiba;Brasil;28;20;Sim;100;rain;05:26 am;06:52 pm;0.89 km/h
+Tremembé;3554805;13/01;Vale do Paraiba;Brasil;29;19;Sim;100;rain;05:26 am;06:52 pm;1.6 km/h
+Tremembé;3554805;14/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:26 am;06:52 pm;1.92 km/h
+Tremembé;3554805;15/01;Vale do Paraiba;Brasil;28;21;Sim;100;rain;05:26 am;06:52 pm;1.43 km/h
+Ubatuba;3555406;11/01;Vale do Paraiba;Brasil;28;19;Sim;92;rain;05:23 am;06:51 pm;1.42 km/h
+Ubatuba;3555406;12/01;Vale do Paraiba;Brasil;28;19;Sim;89;rain;05:23 am;06:51 pm;1.3 km/h
+Ubatuba;3555406;13/01;Vale do Paraiba;Brasil;29;19;Sim;92;rain;05:23 am;06:51 pm;1.21 km/h
+Ubatuba;3555406;14/01;Vale do Paraiba;Brasil;28;21;Sim;86;rain;05:23 am;06:51 pm;1.92 km/h
+Ubatuba;3555406;15/01;Vale do Paraiba;Brasil;29;21;Sim;100;rain;05:23 am;06:51 pm;1.45 km/h
