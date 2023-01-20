@@ -1,16 +1,12 @@
 <div align=center>
-<img width="18%" height="auto" src="https://static.wixstatic.com/media/efe4c3_d4c9a129e6264a75bbcc9f54ec63bd45~mv2.png/v1/fill/w_181,h_88,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Dataside%20-%20Monocromatico.png"/>
+<img width="18%" height="auto" src="https://user-images.githubusercontent.com/89695635/213739133-099b49c2-6b9c-4d3b-bf75-9d4fb12c37cc.png"/>
   </div> 
- <br><br>
+ <br>
 
-<div align=center>
-    <h1> Desafio Dataside
-  </div>  
-
-
+##
 
 <h4 align="left">
- Neste desafio, desenvolvi um notebook que será responsável por extrair dados de previsão do tempo das cidades do Vale do Paraíba, região onde se localiza a Dataside.
+ Neste desafio, desenvolvi um notebook que será responsável por extrair dados de previsão do tempo das cidades do Vale do Paraíba.
  Com esses dados usando Pyspark, gerei um data frame com os dados de previsão adquiridos pela API <a href="https://hgbrasil.com/status/weather"><strong>Hg Weather »</strong></a>
  e a partir dele uma temp view. Por fim exportei a tabela em csv usando Pandas.</h4>
 
