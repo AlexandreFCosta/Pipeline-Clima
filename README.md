@@ -35,10 +35,8 @@ Este projeto consiste em:
 ##
 
 <div align="center" style"display: inline_block"><br>
-  <img align"center" alt="Alexandre-Python" height=60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+  <img align"center" alt="Alexandre-Python" height=60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" /> 
   <img align"center" alt="Alexandre-Pandas" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align"center" alt="Alexandre-Spark" height="50" width="100" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" />
-  <img align"center" alt="Alexandre-HgWeathers" height="40" width="15%" src="https://hgbrasil.com/assets/hg-br-logo-29abe59800e509879c6b79ff8861370119567f923c815595f7d19dff4986d786.png"/>
-  <img align"center" alt="Alexandre-IBGE" height="40" width="100" src="https://user-images.githubusercontent.com/89695635/211843449-3becff14-11c0-407d-84dc-a676cfce0804.png" />
+  <img align"center" alt="Alexandre-Spark" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1280px-Apache_Spark_logo.svg.png" />
 </div>
 <br>
